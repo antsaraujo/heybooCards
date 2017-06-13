@@ -1,0 +1,30 @@
+{
+	"collection": [
+		{
+			"image": "https://cdn.rawgit.com/antsaraujo/heybooCards/587a924d6383f306fcf735bf9d059261f5bd8b4d/images/epicwin.jpg",
+			"title": "Gameficação",
+			"text": "Adicionar elementos de jogos em um site ou app pode deixá-lo mais atrativo. Pode-se fazer isso acrescentando bônus escondido, timers, quizes ou recompensas, dando algum desafio ao usuário. É uma maneira de elevar a atenção e o engajamento, mas leva a desafios de design. Fonte: Revista W"
+		},
+		{
+			"image": "https://cdn.rawgit.com/antsaraujo/heybooCards/9019b37b903cfbd73ea393973f60b9d7ca13bb07/images/default.png",
+			"title": "Narrativa ou Storytelling",
+			"text": "A narrativa melhora a comunicação em materiais complexos, como sites, apresentações ou aplicativos. Ela significa estruturar ou conectar elementos diversos, num sentido lógico. Isso leva a experiência a mais naturalidade. Siga o que seria um fluxo natural de perguntas e respostas. Fonte: Revista W"
+		},
+		{
+			"image": "https://cdn.rawgit.com/antsaraujo/heybooCards/6c1df792ee9b1818633c0801d277ee99de016c8c/images/natewilliams.jpg",
+			"title": "Métodos para Ilustração",
+			"text": "Sinta o assunto: tire fotos na rua, por exemplo, para se inspirar. Resuma o problema ou briefing em 3 palavras. Descubra o símbolo que mostra cada uma delas. Faça as relações e composições. Inspire-se em diferentes épocas, natureza, ângulos, cores e closes, ou a cidade. Fonte:Nate Williams"
+		},
+		{
+			"image": "https://cdn.rawgit.com/antsaraujo/heybooCards/84005eff748b8e47aa94bbef9fbf394aeab2f16b/images/desempenhoOrg.jpg",
+			"title": "Desempenho da Organização",
+			"text": "É dado pela matriz 3 x 3, onde se cruzam Organização, Processos, Operações com Metas, Projeto, Gerenciamento. Esse é o retrato de como a organização trabalha. Fonte:Vicente Falconi"
+		},
+		{
+			"image": "https://cdn.rawgit.com/antsaraujo/heybooCards/dda5caf9c0db1666d0c3aefc5cb16ac9cd0fa7a9/images/goldenCircle.jpg",
+			"title": "Golden Circle",
+			"text": "Comece pelo WHY, para entender o propósito do que quer fazer. Siga pelo HOW, para ter uma visão executável. Desenvolva o WHAT, que é a parte 'mão na massa' do projeto. Não se pode esquecer que esse processo tem que definir muito bem um Output, de preferência em uma só palavra. Fonte:Simon Sinek",
+			"site": "http://www.heyboo.com.br"
+		}
+	]
+}
