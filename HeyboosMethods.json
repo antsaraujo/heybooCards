@@ -1,6 +1,96 @@
 {
 	"collection": [
 		{
+			"image": "img/default.png",
+			"title": "Estratégia de longo prazo HBR",
+			"text": "Todas as empresas de alta performance do mundo seguem apenas 3 regras básicas: 1. MELHOR antes de MAIS BARATO. Competir por diferenciais. 2. RECEITAS antes de CUSTOS. Vender mais é mais importante do que reduzir custos. 3. NÃO HÁ OUTRAS regras. Mexa no que for preciso para seguir as duas primeiras regras. Criatividade. Fonte: HBR Brasil<br data-mce-bogus=\"1\">"
+		},
+		{
+			"image": "img/default.png",
+			"title": "CMS",
+			"text": "Trata-se de um sistema amigável ao usuário, para montagem de conteúdo em um site, sem precisar de codificação. Wordpress, Drupal e Reactive. <em>Fonte: Revista W</em>"
+		},
+		{
+			"image": "https://cdn.rawgit.com/antsaraujo/heybooCards/a1a48adb01e9c8768bb9eb510fbf0fccb83d6813/images/speedpainting.jpg",
+			"title": "Speed Painting",
+			"text": "<a href=\"http://idrawgirls.com/speedpainting-tutorial.html\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://idrawgirls.com/speedpainting-tutorial.html\">Girls</a>, <a href=\"http://www.floobynooby.com/ICG/artvalues.html\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.floobynooby.com/ICG/artvalues.html\">tutorial</a>&nbsp;. Fonte: web"
+		},
+		{
+			"image": "https://cdn.rawgit.com/antsaraujo/heybooCards/abf8b8ce5aed443bcb79f9fc9b5e24f4cd3df890/images/montagemclima.jpg",
+			"title": "Montagem fotográfica com clima",
+			"text": "Montagem de fotos com mudança nas luzes gerais e criação de movimento. <a href=\"https://www.psdbox.com/tutorials/wasted-time-easy-manipulation-tutorial\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://www.psdbox.com/tutorials/wasted-time-easy-manipulation-tutorial\">Tutorial</a>. Fonte: psdbox.com tutorials"
+		},
+		{
+			"image": "https://cdn.rawgit.com/antsaraujo/heybooCards/8cb5b1f94e2ab6bd6052976c1e1d0e36a58b3e46/images/aliceXZhang.jpg",
+			"title": "Retrato Digital Estilizado",
+			"text": "Com pincéis do photoshop, a artista faz uma definição inicial das cores, experimenta pincéis e usa o modo overlay para compor. Há <a title=\"vídeo tutorial dela\" href=\"http://alicexz.deviantart.com/art/Airplanes-200997113\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://alicexz.deviantart.com/art/Airplanes-200997113\">vídeo tutorial dela</a>. <em>Fonte: Alice X. Zhang</em>"
+		},
+		{
+			"image": "https://cdn.rawgit.com/antsaraujo/heybooCards/c6abd7cb2ed5e6067610ed6f58556200b32fe23d/images/lowpoly.png",
+			"title": "Arte com Polígonos",
+			"text": "<span style=\"font-size: 0.9em;\">A partir de uma foto, pode-se criar um mosaico lowpoly como &nbsp;<a href=\"http://www.instructables.com/id/Low-Poly-Art-in-Photoshop/?ALLSTEPS\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.instructables.com/id/Low-Poly-Art-in-Photoshop/?ALLSTEPS\">este</a> ou <a href=\"http://www.digitalartsonline.co.uk/tutorials/adobe-illustrator/create-low-poly-portrait-photoshop-illustrator/#8\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.digitalartsonline.co.uk/tutorials/adobe-illustrator/create-low-poly-portrait-photoshop-illustrator/#8\">este</a> ou <a href=\"http://blog.advancedphotoshop.co.uk/tutorials/photoshop-tutorial-master-polygons/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://blog.advancedphotoshop.co.uk/tutorials/photoshop-tutorial-master-polygons/\">este.&nbsp;</a>&nbsp;<em>Fonte: Revista W</em></span>"
+		},
+		{
+			"image": "img/default.png",
+			"title": "Design Web Extensível",
+			"text": "Para ser produtivo, use três estratégias: 1. Crie um <a href=\"https://github.com/beardedstudio/stubble\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"https://github.com/beardedstudio/stubble\">kit básico</a>. Deve ser discutido com a equipe e revisado periodicamente. 2. Use um pré-processador, para ter menos dor de cabeça. Com estilos linkados como variáveis, mudar cores do projeto, por exemplo, fica muito mais prático. 3. Use <a href=\"http://bit.ly/1di4XwX\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://bit.ly/1di4XwX\">design atômico</a>. Em sites grandes e complexos, use <a href=\"http://designmodo.github.io/Flat-UI/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://designmodo.github.io/Flat-UI/\">guias de estilo</a>. <em>Fonte: Revista W</em>"
+		},
+		{
+			"image": "https://cdn.rawgit.com/antsaraujo/heybooCards/8485f5f88240a9e2540c538a2e58b95840ee66db/images/persona.png",
+			"title": "Personas",
+			"text": "Ferramenta para dar início à análise do consumidor. Traça-se um consumidor típico e suas características principais, para entender como ele se comporta na sua jornada até o consumo. <em>Fonte: Heart of the Customer, Jim Tincher</em>"
+		},
+		{
+			"image": "https://cdn.rawgit.com/antsaraujo/heybooCards/c0a5b242d05df4616c915a4a9b1168e0c4c8df61/images/journeyMap.png",
+			"title": "Journey Map",
+			"text": "A partir do segmento e da persona, traçar a jornada do consumidor, de maneira analítica, para encontrar os pontos de contato com o produto, assim como avaliações de como investir em determinadas soluções e características-chave. Embaixo, em cada fase, não deixar de notar o que o cliente está pensando e/ou sentindo. <em>Fonte: Heart of the Customer, Jim Tincher</em>"
+		},
+		{
+			"image": "https://cdn.rawgit.com/antsaraujo/heybooCards/17559516da5d52e34b34ea6ba87cb49eb7781f0b/images/bonderProblemas.png",
+			"title": "O método judaico da resolução de problemas",
+			"text": "Há quatro dimensões da realidade a entender, para resolver problemas. Cada uma delas exige uma maneira diferente de agir e ajuda a alcançar uma outra dimensão. <em>Fonte: Nilton Bonder</em>"
+		},
+		{
+			"image": "img/default.png",
+			"title": "Style Guides",
+			"text": "São o projeto gráfico dos sites. Disciplinam os elementos principais para umm design atômico. No geral, fonts, colors, h1, blocos de texto com títulos, bullets, links, tabs, modals, images, date, popover, tooltips, form elements como field inputs, select box, text area, upluad box, buttons, headings, carroussels, modules, etc. <a href=\"http://designmodo.github.io/Flat-UI/\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://designmodo.github.io/Flat-UI/\">Exemplo</a>. <em>Fonte: Revista W</em>"
+		},
+		{
+			"image": "img/default.png",
+			"title": "Minimalismo",
+			"text": "É um conceito de design admirável. É simples e objetivo. Os web designers lutam por ele, fazendo de tudo para alcançá-lo. Não se limita à remoção de ornamentos. É o jeito de fazer com que o essencial seja valorizado. <em>Fonte: Revista W</em>"
+		},
+		{
+			"image": "img/default.png",
+			"title": "Modelos Mentais",
+			"text": "Entender o caminho dos visitantes pelo seu site é essencial para planejar a arquitetura da página. Consiste em estudar as razões que levam visitantes a percorrer determinado caminho em um site. Também é o perfil sobre o que eles imaginam ser sua página e como encaram o assunto ou conteúdo abordado. É necessário para que haja empatia com os visitantes do seu site. <em>Fonte: Revista W</em>"
+		},
+		{
+			"image": "img/default.png",
+			"title": "Call to Action Button",
+			"text": "É preciso caprichar na apresentação inicial do seu site e agarrar os visitantes desde o primeiro instante. A chamada para a ação ainda é uma das partes mais importantes. Tem que se garantir que o botão seja encontrado, entendido e clicado. <em>Fonte: Revista W</em>"
+		},
+		{
+			"image": "img/default.png",
+			"title": "Complexidade",
+			"text": "Excesso de informações é parte da vida dos designers. Mas o produto final deve ser inteligível. Analisar a natureza da informação melhora o design que trará a visita do usuário. <em>Fonte: Revista W</em>"
+		},
+		{
+			"image": "img/default.png",
+			"title": "Design Modular",
+			"text": "Fazer design modular ajuda em seus projetos e ainda pode permitir a reutilização de soluções em outros trabalhos. Abordagem que separa componentes do site e é uma forma de aproveitar componentes em vários trabalhos. A chave é criar blocos que podem ser movidos e reutilizados. <em>Fonte: Revista W</em>"
+		},
+		{
+			"image": "img/default.png",
+			"title": "Parallax",
+			"text": "Tecnologia para construir efeitos de profundidade e narrativa pode ser a saída para manter seus visitantes envolvidos. É uma forma de enganar o cérebro com efeitos que acrescentam interatividade. <em>Fonte: Revista W</em>"
+		},
+		{
+			"image": "img/default.png",
+			"title": "usabilidade",
+			"text": "<p>Se refere à ação que uma pessoa pode realizar com um objeto. É o Conceito de Affordance, no livro The Design of Everyday Things, e se relaciona com a percepção do usuário. Ajudar o usuário a entender com quais elementos ele pode interagir é fundamental para projetos digitais bem sucedidos.&nbsp;<em>Fonte: Donald Norman</em></p>"
+		},
+		{
 			"image": "https://cdn.rawgit.com/antsaraujo/heybooCards/587a924d6383f306fcf735bf9d059261f5bd8b4d/images/epicwin.jpg",
 			"title": "Gameficação",
 			"text": "Adicionar elementos de jogos em um site ou app pode deixá-lo mais atrativo. Pode-se fazer isso acrescentando bônus escondido, timers, quizes ou recompensas, dando algum desafio ao usuário. É uma maneira de elevar a atenção e o engajamento, mas leva a desafios de design.&nbsp;Fonte: Revista W <a title=\"site de design\" href=\"http://www.heyboo.com.br\" target=\"_blank\" rel=\"noopener\" data-mce-href=\"http://www.heyboo.com.br\">site</a>"
